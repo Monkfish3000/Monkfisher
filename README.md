@@ -4,4 +4,4 @@
 
 - `npm run dev` to start up the server
 
-- yarn start` to run the client
+- `yarn start` to run the client
